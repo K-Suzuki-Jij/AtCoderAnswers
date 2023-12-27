@@ -10,3 +10,4 @@
 
 ## ABC-D
 * 327-D: [Task](https://atcoder.jp/contests/abc327/tasks/abc327_d), [Submission](https://atcoder.jp/contests/abc327/submissions/48852362)
+* 328-D: [Task](https://atcoder.jp/contests/abc328/tasks/abc328_d), [Submission](https://atcoder.jp/contests/abc328/submissions/48873637)
