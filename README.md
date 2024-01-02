@@ -12,6 +12,7 @@
 * 332-C: [Task](https://atcoder.jp/contests/abc332/tasks/abc332_c), [Submission](https://atcoder.jp/contests/abc332/submissions/48629957)
 
 ## ABC-D
+* 144-D: [Task](https://atcoder.jp/contests/abc144/tasks/abc144_d), [Submission](https://atcoder.jp/contests/abc144/submissions/48978471)
 * 218-D: [Task](https://atcoder.jp/contests/abc218/tasks/abc218_d), [Submission](https://atcoder.jp/contests/abc218/submissions/48964887)
 * 327-D: [Task](https://atcoder.jp/contests/abc327/tasks/abc327_d), [Submission](https://atcoder.jp/contests/abc327/submissions/48852362)
 * 328-D: [Task](https://atcoder.jp/contests/abc328/tasks/abc328_d), [Submission](https://atcoder.jp/contests/abc328/submissions/48873637)
