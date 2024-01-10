@@ -24,4 +24,5 @@
 * 059-C: [Task](https://atcoder.jp/contests/arc059/tasks/arc059_a), [Submission](https://atcoder.jp/contests/arc059/submissions/49173403)
 
 # AtCoder Daily Training MEDIUM
-*  2024/1/9 17:30: [Task](https://atcoder.jp/contests/adt_medium_20240109_2/tasks), [Submission](https://atcoder.jp/contests/adt_medium_20240109_2/submissions/me)
+* 2024/1/9 17:30: [Task](https://atcoder.jp/contests/adt_medium_20240109_2/tasks), [Submission](https://atcoder.jp/contests/adt_medium_20240109_2/submissions/me)
+* 2024/1/10 18:00: [Task](https://atcoder.jp/contests/adt_medium_20240110_2/tasks), [Submission](https://atcoder.jp/contests/adt_medium_20240110_2/submissions/me)
