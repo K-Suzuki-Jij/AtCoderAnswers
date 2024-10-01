@@ -41,6 +41,10 @@
 * 2024/9/10 19:30: [Task](https://atcoder.jp/contests/adt_medium_20240910_3/tasks), [Submission](https://atcoder.jp/contests/adt_medium_20240910_3/submissions/me)
 * 2024/9/11 20:00: [Task](https://atcoder.jp/contests/adt_medium_20240911_3/tasks), [Submission](https://atcoder.jp/contests/adt_medium_20240911_3/submissions/me)
 * 2024/9/12 20:30: [Task](https://atcoder.jp/contests/adt_medium_20240912_3/tasks), [Submission](https://atcoder.jp/contests/adt_medium_20240912_3/submissions/me)
+* 2024/10/1 15:30: [Task](https://atcoder.jp/contests/adt_medium_20241001_2/tasks), [Submission](https://atcoder.jp/contests/adt_medium_20241001_2/submissions/me)
+
+# AtCoder Typical Contest
+* 001-A: [Task](https://atcoder.jp/contests/atc001/tasks/dfs_a), [Submission](https://atcoder.jp/contests/atc001/submissions/me)
 
 # SPECIAL
 ## ZONe-Energy-HELLO-SPACE
